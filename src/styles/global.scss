@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+}
+
+:root {
+  --white: #fff;
+  --dark: #333;
+
+  --gray-100: #eee;
+  --gray-300: #ddd;
+  --gray-800: #ccc;
+
+  --green-500: #04D361;  
+  --purple-500: #8257E5;
+
+  --O-color: #8257E5;
+  --X-color: #04D361;
+}
+
+body {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+
+  height: 100vh;
+  background-color: var(--gray-100);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  font-family: Lexend, sans-serif;
+  color: var(--dark);
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+button {
+  font: 500 1rem Inter, sans-serif;
+  color: var(--dark);
+  cursor: pointer;
+}
+
+/* BREAKPOINTS MEDIA QUERIES */
+@media (max-width: 1080px) {
+  html {
+    font-size: 93.75%;
+  }
+}
