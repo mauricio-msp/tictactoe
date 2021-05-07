@@ -7,7 +7,9 @@
 [![license](https://img.shields.io/badge/license-MIT-blueviolet?style=flat-square)](LICENSE)
 
 ## 🎮 Projeto 
-- Podcastr é uma plataforma construída para a transmissão de podcast.
+- TicTacToe é um jogo da velha construído com as ferramentas mais atuais do mercado.
+
+![TicTacToe preview](.github/project-preview.png)
 
 ## 🚀 Tecnologias
 
