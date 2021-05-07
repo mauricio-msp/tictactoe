@@ -1,34 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## TicTacToe (Jogo da Velha)
 
-## Getting Started
+[![author](https://img.shields.io/badge/author-mauricioporfirio-blueviolet?style=flat-square)](https://github.com/mauricio-msp)
+[![watchers](https://img.shields.io/github/watchers/mauricio-msp/tictactoe?style=flat-square&color=blueviolet)](https://github.com/mauricio-msp/tictactoe/watchers)
+[![stars](https://img.shields.io/github/stars/mauricio-msp/tictactoe?style=flat-square&color=blueviolet)](https://github.com/mauricio-msp/tictactoe/stargazers)
+[![forks](https://img.shields.io/github/forks/mauricio-msp/tictactoe?style=flat-square&color=blueviolet)](https://github.com/mauricio-msp/tictactoe/network/members)
+[![license](https://img.shields.io/badge/license-MIT-blueviolet?style=flat-square)](LICENSE)
 
-First, run the development server:
+## 🎮 Projeto 
+- Podcastr é uma plataforma construída para a transmissão de podcast.
+
+## 🚀 Tecnologias
+
+- [Sass](https://sass-lang.com/)
+- [ReactJS](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
+- [Api Notification Web](https://developer.mozilla.org/pt-BR/docs/Web/API/Notification)
+
+## 💻 Iniciando
+
+### Requisitos
+
+- Você precisa instalar ambos [Node.js](https://nodejs.org/en/download/) e [Yarn](https://yarnpkg.com/) para executar este projeto.
+
+**Clone o projeto e acesse a pasta**
 
 ```bash
-npm run dev
-# or
-yarn dev
+$ git clone https://github.com/mauricio-msp/tictactoe.git && cd tictactoe-next
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Siga os passos abaixo**
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```bash
+# Instale as dependências
+$ yarn
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# Execute o servidor web
+$ yarn dev
+```
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+O aplicativo estará disponível para acesso em seu navegador em `http://localhost:3000`
 
-## Learn More
+## 📝 License
 
-To learn more about Next.js, take a look at the following resources:
+Este projeto está licenciado sob a Licença MIT - consulte a [LICENSE](LICENSE) arquivo para detalhes.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Feito por Mauricio Porfirio 👋 [Confira meu LinkedIn](https://www.linkedin.com/in/mauricio-porfirio-673857105/)
