@@ -9,7 +9,7 @@
 ## 🎮 Projeto 
 - TicTacToe é um jogo da velha construído com as ferramentas mais atuais do mercado.
 
-![TicTacToe preview](.github/project-preview.png)
+![TicTacToe preview](.github/preview-animated.gif)
 
 ## 🚀 Tecnologias
 
